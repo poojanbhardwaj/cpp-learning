@@ -3,7 +3,7 @@
 class Solution {
 public:
     auto sequentialDigits(int low, int high) -> std::vector<int> {
-        std::vector<int> result;
+        vector<int> result;
 
         for (int length = 2; length <= 9; ++length) {
             for (int first = 1; first + length <= 10; ++first) {
