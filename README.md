@@ -48,6 +48,7 @@ Topics contained:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +93,8 @@ Topics contained:
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
