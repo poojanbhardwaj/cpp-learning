@@ -13,6 +13,7 @@ Topics contained:
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
@@ -61,6 +62,7 @@ Topics contained:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -104,4 +106,8 @@ Topics contained:
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
