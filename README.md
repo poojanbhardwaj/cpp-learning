@@ -14,6 +14,7 @@ Topics contained:
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -66,6 +67,7 @@ Topics contained:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -119,4 +121,8 @@ Topics contained:
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
