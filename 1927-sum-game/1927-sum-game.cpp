@@ -28,6 +28,7 @@ public:
 
             
         }
-        return ((qr+ql)%2 == 1)|| (suml-sumr != (qr-ql)*9/2);
+        int ans = suml-sumr + (ql/2)*9 -(qr/2)*9
+ ;       return ((qr+ql)%2 == 1) || ans!= 0;
     }
 };
