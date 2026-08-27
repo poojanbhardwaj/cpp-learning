@@ -75,6 +75,7 @@ Topics contained:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
@@ -126,6 +127,7 @@ Topics contained:
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0097-interleaving-string) |
@@ -170,6 +172,7 @@ Topics contained:
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 ## Longest Common Subsequence
 |  |
