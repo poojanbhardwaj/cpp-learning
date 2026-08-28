@@ -81,6 +81,7 @@ Topics contained:
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0516-longest-palindromic-subsequence) |
@@ -132,6 +133,7 @@ Topics contained:
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
