@@ -65,6 +65,7 @@ Topics contained:
 ## Math
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
 | [1927-sum-game](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
@@ -87,6 +88,7 @@ Topics contained:
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
+| [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
 | [1092-shortest-common-supersequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -112,6 +114,7 @@ Topics contained:
 ## Binary Search
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
