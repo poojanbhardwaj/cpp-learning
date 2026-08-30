@@ -40,6 +40,7 @@ Topics contained:
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
@@ -47,6 +48,7 @@ Topics contained:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -192,11 +194,13 @@ Topics contained:
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
