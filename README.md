@@ -41,6 +41,7 @@ Topics contained:
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -186,4 +187,16 @@ Topics contained:
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1092-shortest-common-supersequence) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
