@@ -40,6 +40,7 @@ Topics contained:
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
@@ -84,6 +85,7 @@ Topics contained:
 | [0087-scramble-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0115-distinct-subsequences) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
@@ -190,13 +192,16 @@ Topics contained:
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
