@@ -8,15 +8,11 @@ public:
         int ans = 0;
         int maxi = 0;
         
-        for(int j = 1;j<=k;j++){
-           
-            for(int t = 1;t<=j;t++){
-               if(i-t>=0) maxi = max(maxi,arr[i-t]);
-            }
+        for(int j = 1;j<=min(k,i);j++){
+        
+            maxi = max(maxi,arr[i-j]);
             int temp = 0;
-            if(i-j>=0)  temp = maxi*j+f(i-j,k,arr,dp);
-
-            
+            temp = maxi*j+f(i-j,k,arr,dp);
             ans = max(ans,temp);
         }
         return dp[i]  = ans;
