@@ -1,30 +1,29 @@
 class Solution {
 public:
-    bool isPalindrome(string &s,int i,int j){
+    bool isPalindrome(int i,int j,string &s){
         while(i<j){
-            if(s[i] != s[j]) return false;
+            if(s[i]!=s[j]) return false;
             i++;
             j--;
         }
         return true;
     }
-    int f(string &s,int i,int j,vector<vector<int>> &dp){
+    int f(int i,int j,string &s,vector<vector<int>> &dp){
         if(i>=j) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(isPalindrome(s,i,j)) return dp[i][j] = 0;
-        int ans = INT_MAX;
-        for(int k = i;k<j;k++){
-           if(isPalindrome(s,i,k)){
-            int t = 1+f(s,k+1,j,dp);
-            ans = min(ans,t);
-           }
+        if(isPalindrome(i,j,s)) return dp[i][j] =  0;
+        if( dp[i][j] != -1) return  dp[i][j];
+        int ans =INT_MAX;
+        for(int k = i;k<=j;k++){
+            if(isPalindrome(i,k,s)){
+                ans =min(ans, 1+f(k+1,j,s,dp));
 
+            }
         }
-        return dp[i][j] =ans;
+        return  dp[i][j] = ans;
     }
     int minCut(string s) {
-        int n =s.size();
+        int n = s.size();
         vector<vector<int>> dp(n,vector<int> (n,-1));
-        return f(s,0,n-1,dp);
+        return f(0,n-1,s,dp);
     }
 };
