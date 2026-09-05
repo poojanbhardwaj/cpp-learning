@@ -16,6 +16,7 @@ Topics contained:
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1043-partition-array-for-maximum-sum) |
@@ -56,6 +57,7 @@ Topics contained:
 | ------- |
 | [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -95,6 +97,7 @@ Topics contained:
 | [0115-distinct-subsequences](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0132-palindrome-partitioning-ii) |
+| [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
@@ -224,6 +227,7 @@ Topics contained:
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -243,4 +247,8 @@ Topics contained:
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
