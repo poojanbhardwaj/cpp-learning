@@ -1,24 +1,24 @@
 class Solution {
 public:
-   
+    int f(string& s,string &t,int i,int j,vector<vector<int>> &dp){
+        if(i == 0 && j == 0) return 1;
+
+        else if(j == 0) return 1;
+        else if(i==0) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+        int ans = 0;
+        if(s[i-1] == t[j-1]) {
+            ans += f(s,t,i-1,j-1,dp) + f(s,t,i-1,j,dp);
+        }
+        else{
+            ans+=f(s,t,i-1,j,dp);
+        }
+        return dp[i][j] = ans;
+    }
     int numDistinct(string s, string t) {
         int n = s.size();
         int m = t.size();
-        vector<vector<long long>> dp(n + 1, vector<long long >(m + 1, 0));
-        for (int i = 0; i <= n; i++) {
-            dp[i][m] = 1;
-        }
-        long long LIMIT = INT_MAX;
-        for (int i = n - 1; i >= 0; i--) {
-            int ans = 0;
-            for (int j = m - 1; j >= 0; j--) {
-                if (s[i] == t[j]) {
-                   dp[i][j] += min(LIMIT,dp[i + 1][j + 1] + dp[i + 1][j]);
-                } else{
-                    dp[i][j] += dp[i+1][j];
-                }
-            }
-        }
-        return (int)dp[0][0];
+        vector<vector<int>>dp(n+1,vector<int> (m+1,-1));
+        return f(s,t,n,m,dp);
     }
 };
