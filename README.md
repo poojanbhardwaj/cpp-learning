@@ -108,6 +108,7 @@ Topics contained:
 | [0518-coin-change-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
+| [0940-distinct-subsequences-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -167,6 +168,7 @@ Topics contained:
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1927-sum-game](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1927-sum-game) |
