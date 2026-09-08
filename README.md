@@ -87,6 +87,7 @@ Topics contained:
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
