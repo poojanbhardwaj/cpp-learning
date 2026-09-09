@@ -25,6 +25,7 @@ Topics contained:
 | [0416-partition-equal-subset-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1043-partition-array-for-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1043-partition-array-for-maximum-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -118,6 +119,7 @@ Topics contained:
 | [0516-longest-palindromic-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0940-distinct-subsequences-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1043-partition-array-for-maximum-sum) |
@@ -211,6 +213,7 @@ Topics contained:
 | ------- |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1927-sum-game](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
