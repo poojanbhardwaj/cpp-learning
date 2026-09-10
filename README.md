@@ -13,6 +13,7 @@ Topics contained:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ Topics contained:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
