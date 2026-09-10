@@ -65,6 +65,7 @@ Topics contained:
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -246,12 +247,14 @@ Topics contained:
 | [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
