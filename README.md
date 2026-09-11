@@ -16,6 +16,7 @@ Topics contained:
 | [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -213,6 +214,7 @@ Topics contained:
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
