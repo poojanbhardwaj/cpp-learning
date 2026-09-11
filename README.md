@@ -42,6 +42,7 @@ Topics contained:
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -55,6 +56,7 @@ Topics contained:
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ Topics contained:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -247,6 +250,7 @@ Topics contained:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
+| [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 ## Longest Common Subsequence
 |  |
 | ------- |
