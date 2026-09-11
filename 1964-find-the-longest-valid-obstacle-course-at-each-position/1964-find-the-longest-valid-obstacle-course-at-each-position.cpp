@@ -7,13 +7,14 @@ public:
         temp.push_back(obstacles[0]);
         ans[0] =1;
         for(int i = 1;i<n;i++){
-            if(temp.back() <= obstacles[i]) {temp.push_back(obstacles[i]);ans[i] =temp.size();}
-            else{
-                int idx = upper_bound(temp.begin(),temp.end(),obstacles[i]) - temp.begin();
-                temp[idx]= obstacles[i];
-                ans[i] = idx+1;
+            int idx = upper_bound(temp.begin(), temp.end(), obstacles[i]) - temp.begin();
 
-            }
+ans[i] = idx + 1;
+
+if(idx == temp.size())
+    temp.push_back(obstacles[i]);
+else
+    temp[idx] = obstacles[i];   
         }
         return ans;
     }
