@@ -50,6 +50,7 @@ Topics contained:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
@@ -188,6 +189,7 @@ Topics contained:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
@@ -306,4 +308,8 @@ Topics contained:
 |  |
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
