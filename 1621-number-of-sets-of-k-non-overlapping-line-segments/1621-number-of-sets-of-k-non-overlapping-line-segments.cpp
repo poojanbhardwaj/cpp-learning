@@ -1,52 +1,36 @@
 class Solution {
 public:
-    static constexpr int MOD = 1'000'000'007;
-
-    vector<vector<int>> dp;
-    vector<vector<int>> prefixDP;
-
-    // f(n, k): ways to create k segments using n points
-    int f(int n, int k) {
-        if (k == 0)
-            return 1;
-
-        if (n < k + 1)
-            return 0;
-
-        int& answer = dp[n][k];
-
-        if (answer != -1)
-            return answer;
-
-        // No segment ends at point n-1
-        long long notEnd = f(n - 1, k);
-
-        // A segment ends at n-1
-        long long end = prefix(n - 1, k - 1);
-
-        return answer = (notEnd + end) % MOD;
+int mod = 1e9+7;
+    int f(int i,int k,int n,vector<vector<int>> &dp){
+        if(k == 0) return 1;
+        if(i == n) return 0;
+        if(dp[i][k] != -1) return dp[i][k];
+        int skip = f(i+1,k,n,dp)%mod;
+        int take = 0;
+        for(int j = i+1;j<=n-1;j++){
+            take+=f(j,k-1,n,dp)%mod;
+        }
+        return dp[i][k]=(take+skip)%mod;
     }
-
-    // f(1,k) + f(2,k) + ... + f(n,k)
-    int prefix(int n, int k) {
-        if (n <= 0)
-            return 0;
-
-        int& answer = prefixDP[n][k];
-
-        if (answer != -1)
-            return answer;
-
-        return answer = (
-            static_cast<long long>(prefix(n - 1, k)) +
-            f(n, k)
-        ) % MOD;
-    }
-
     int numberOfSets(int n, int k) {
-        dp.assign(n + 1, vector<int>(k + 1, -1));
-        prefixDP.assign(n + 1, vector<int>(k + 1, -1));
+        vector<vector<int>> dp(n+1,vector<int> (k+1,0));
+        vector<int> pref(k+1,0);
+        for(int i = 0;i<n;i++) dp[i][0] = 1;
+        for(int i = n-1;i>=0;i--){
 
-        return f(n, k);
+            for(int j = 1;j<=k;j++){
+                int skip = dp[i+1][j]%mod;
+                int take = 0;
+                
+                    take = pref[j-1]%mod;
+                
+                dp[i][j] = (skip+take)%mod;
+            }
+            for(int j = 0;j<=k;j++){
+                pref[j] = (pref[j] + dp[i][j])%mod;
+            }
+            
+        }
+        return dp[0][k]%mod;
     }
 };
