@@ -108,6 +108,7 @@ Topics contained:
 | [0836-rectangle-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -340,4 +341,5 @@ Topics contained:
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
