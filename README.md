@@ -46,6 +46,7 @@ Topics contained:
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3904-smallest-stable-index-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3904-smallest-stable-index-ii) |
@@ -115,6 +116,7 @@ Topics contained:
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3870-count-commas-in-range) |
@@ -156,6 +158,7 @@ Topics contained:
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3524-find-x-value-of-array-i) |
 ## Number Theory
 |  |
 | ------- |
