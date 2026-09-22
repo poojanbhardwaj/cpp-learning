@@ -31,6 +31,7 @@ Topics contained:
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0835-image-overlap) |
 | [1043-partition-array-for-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1043-partition-array-for-maximum-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -182,6 +183,7 @@ Topics contained:
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -358,6 +360,7 @@ Topics contained:
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
