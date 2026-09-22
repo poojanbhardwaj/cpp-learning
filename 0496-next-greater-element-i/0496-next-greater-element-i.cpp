@@ -15,8 +15,8 @@ public:
             st.push(nums2[i]);
         }
         for(int i = 0;i<n;i++){
-            if(mp[nums1[i]] == 0){ans[i] = -1;}
-            else ans[i] = mp[nums1[i]];
+            
+            ans[i] = mp[nums1[i]];
         }
         return ans;
     }
