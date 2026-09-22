@@ -210,6 +210,7 @@ Topics contained:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0087-scramble-string) |
@@ -350,6 +351,7 @@ Topics contained:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -359,4 +361,8 @@ Topics contained:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
