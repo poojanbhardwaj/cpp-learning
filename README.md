@@ -30,6 +30,7 @@ Topics contained:
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0835-image-overlap) |
@@ -59,6 +60,7 @@ Topics contained:
 | [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -207,6 +209,7 @@ Topics contained:
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3904-smallest-stable-index-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3904-smallest-stable-index-ii) |
