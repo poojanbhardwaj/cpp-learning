@@ -21,6 +21,7 @@ public:
         }
         
         while(!ans.empty() && ans.back() == '0'){
+            if(ans.size() == 1 && ans.back() == '0')return "0";
             ans.pop_back();
         }
         reverse(ans.begin(),ans.end());
