@@ -19,22 +19,12 @@ public:
             ans+=st.top();
             st.pop();
         }
-        reverse(ans.begin(),ans.end());
-        int i = 0;
-        bool seen = true;
-        string res = "";
-        while(i<ans.size()){
-        if(ans[i] == '0' && seen){
-            i++;
-        }
-        else {
-            res+=ans[i];
-            seen = false;
-            i++;
-        }
         
-    } 
-    return res.empty() ? "0":res;
+        while(!ans.empty() && ans.back() == '0'){
+            ans.pop_back();
+        }
+        reverse(ans.begin(),ans.end());
+    return ans.empty() ? "0":ans;
     }
 
 };
