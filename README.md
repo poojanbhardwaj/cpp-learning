@@ -233,6 +233,7 @@ Topics contained:
 | [0115-distinct-subsequences](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0940-distinct-subsequences-ii) |
@@ -272,6 +273,7 @@ Topics contained:
 | ------- |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -369,6 +371,7 @@ Topics contained:
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0735-asteroid-collision) |
@@ -389,6 +392,7 @@ Topics contained:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0907-sum-of-subarray-minimums) |
