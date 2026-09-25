@@ -375,6 +375,7 @@ Topics contained:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
@@ -386,6 +387,7 @@ Topics contained:
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
