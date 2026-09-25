@@ -64,6 +64,7 @@ Topics contained:
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -75,6 +76,7 @@ Topics contained:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
+| [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -96,6 +98,7 @@ Topics contained:
 | [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -238,6 +241,7 @@ Topics contained:
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1927-sum-game) |
@@ -254,6 +258,7 @@ Topics contained:
 | ------- |
 | [0046-permutations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -376,6 +381,7 @@ Topics contained:
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
