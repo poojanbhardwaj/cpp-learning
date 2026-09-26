@@ -16,6 +16,7 @@ Topics contained:
 | [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ Topics contained:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
@@ -187,6 +189,7 @@ Topics contained:
 | ------- |
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -377,6 +380,7 @@ Topics contained:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
@@ -403,6 +407,7 @@ Topics contained:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
