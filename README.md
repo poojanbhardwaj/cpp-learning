@@ -22,6 +22,7 @@ Topics contained:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
@@ -361,6 +362,7 @@ Topics contained:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
@@ -393,6 +395,7 @@ Topics contained:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -405,4 +408,16 @@ Topics contained:
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2104-sum-of-subarray-ranges) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
