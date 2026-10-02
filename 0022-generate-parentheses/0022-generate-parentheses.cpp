@@ -12,18 +12,18 @@ public:
             else return false;
 
         }
-        return true;
+        return st.empty();
     }
     void generate(int n,vector<string> &ans,int count,string s){
         if(n == 0){
            
-                if(valid(s)) ans.push_back(s);
+               ans.push_back(s);
                 
             
             return;
         }
         if(count<n)generate(n,ans,count+1,s+'(');
-        if(count>=0)generate(n-1,ans,count-1,s+')');
+        if(count>0)generate(n-1,ans,count-1,s+')');
 
     }
     vector<string> generateParenthesis(int n) {
