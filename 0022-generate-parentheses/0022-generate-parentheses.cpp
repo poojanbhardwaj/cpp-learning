@@ -3,16 +3,20 @@ public:
     bool valid(string &s){
         stack<char>st;
         for(char&i:s){
+            if(i == '(') {st.push(i);continue;}
+
             if(!st.empty() && st.top() == '(' && i == ')'){
                 st.pop();
+               
             }
-            else if(i == '(') st.push(i);
+            else return false;
+
         }
-        return st.empty();
+        return true;
     }
     void generate(int n,vector<string> &ans,int count,string s){
         if(n == 0){
-           if(count == 0)
+           
                 if(valid(s)) ans.push_back(s);
                 
             
