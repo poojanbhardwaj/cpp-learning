@@ -19,6 +19,7 @@ Topics contained:
 | [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -394,6 +395,7 @@ Topics contained:
 | [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
@@ -426,6 +428,7 @@ Topics contained:
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
@@ -442,5 +445,6 @@ Topics contained:
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
