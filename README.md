@@ -144,6 +144,7 @@ Topics contained:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
@@ -239,6 +240,7 @@ Topics contained:
 | [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0087-scramble-string) |
@@ -390,6 +392,7 @@ Topics contained:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
@@ -416,6 +419,7 @@ Topics contained:
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
