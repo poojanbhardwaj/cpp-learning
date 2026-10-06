@@ -255,6 +255,7 @@ Topics contained:
 | [0583-delete-operation-for-two-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
@@ -300,6 +301,7 @@ Topics contained:
 | [0402-remove-k-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1927-sum-game) |
@@ -410,6 +412,7 @@ Topics contained:
 | [0856-score-of-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2104-sum-of-subarray-ranges](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2104-sum-of-subarray-ranges) |
@@ -432,6 +435,7 @@ Topics contained:
 | [0032-longest-valid-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
