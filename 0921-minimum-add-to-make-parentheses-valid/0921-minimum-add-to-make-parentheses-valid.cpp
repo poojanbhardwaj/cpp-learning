@@ -15,6 +15,6 @@ public:
                 }
             }
         }
-        return abs(a+b);
+        return (a+b);
     }
 };
