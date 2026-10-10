@@ -38,6 +38,7 @@ Topics contained:
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0835-image-overlap) |
+| [0846-hand-of-straights](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1043-partition-array-for-maximum-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -71,6 +72,7 @@ Topics contained:
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -85,6 +87,7 @@ Topics contained:
 | ------- |
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -308,6 +311,7 @@ Topics contained:
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
