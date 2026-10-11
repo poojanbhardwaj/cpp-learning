@@ -55,6 +55,7 @@ Topics contained:
 | [2395-find-subarrays-with-equal-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
@@ -125,6 +126,7 @@ Topics contained:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
