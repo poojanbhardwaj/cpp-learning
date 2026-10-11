@@ -70,6 +70,7 @@ Topics contained:
 | ------- |
 | [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0355-design-twitter](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
@@ -439,6 +440,7 @@ Topics contained:
 | ------- |
 | [0155-min-stack](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
+| [0355-design-twitter](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0901-online-stock-span) |
 ## Queue
@@ -474,6 +476,7 @@ Topics contained:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
@@ -494,4 +497,8 @@ Topics contained:
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0703-kth-largest-element-in-a-stream) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
