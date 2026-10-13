@@ -7,17 +7,17 @@ public:
         for(int i:nums){
             mp[i]++;
         }
-        priority_queue<pair<int,int>> pq;
+        vector<vector<int>> bucket(n+1);
         for(auto &it:mp){
-            pq.push({it.second,it.first});
-
+            bucket[it.second].push_back(it.first);
         }
-        while(!pq.empty() && k>0){
-            auto &t = pq.top();
-            int i = t.second;
-            pq.pop();
-            ans.push_back(i);
-            k--;
+        for(int i = n;i>=0;i--){
+            if(bucket[i].size() == 0) continue;
+            while(bucket[i].size() > 0 && k>0){
+                ans.push_back(bucket[i].back());
+                bucket[i].pop_back();
+                k--;
+            }
         }
         return ans;
     }
