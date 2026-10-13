@@ -28,6 +28,7 @@ Topics contained:
 | [0300-longest-increasing-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ Topics contained:
 | ------- |
 | [0001-two-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +93,7 @@ Topics contained:
 | ------- |
 | [0018-4sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
@@ -241,6 +244,7 @@ Topics contained:
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -307,6 +311,7 @@ Topics contained:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 ## Topological Sort
 |  |
 | ------- |
@@ -485,6 +490,7 @@ Topics contained:
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -512,4 +518,12 @@ Topics contained:
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0355-design-twitter) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
