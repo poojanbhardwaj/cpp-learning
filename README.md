@@ -24,6 +24,7 @@ Topics contained:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -134,6 +135,7 @@ Topics contained:
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
@@ -142,6 +144,7 @@ Topics contained:
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -204,6 +207,7 @@ Topics contained:
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -526,4 +530,16 @@ Topics contained:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
