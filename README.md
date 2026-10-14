@@ -144,6 +144,7 @@ Topics contained:
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
@@ -348,6 +349,7 @@ Topics contained:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 ## Longest Common Subsequence
 |  |
