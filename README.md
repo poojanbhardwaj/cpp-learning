@@ -157,6 +157,7 @@ Topics contained:
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3871-count-commas-in-range-ii) |
@@ -336,6 +337,7 @@ Topics contained:
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
