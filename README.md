@@ -19,6 +19,7 @@ Topics contained:
 | [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -305,11 +306,13 @@ Topics contained:
 | ------- |
 | [0022-generate-parentheses](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0078-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
