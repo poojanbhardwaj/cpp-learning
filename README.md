@@ -67,6 +67,7 @@ Topics contained:
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -91,6 +92,7 @@ Topics contained:
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ Topics contained:
 | [1626-best-team-with-no-conflicts](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1626-best-team-with-no-conflicts) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
