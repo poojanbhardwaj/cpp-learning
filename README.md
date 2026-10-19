@@ -53,6 +53,7 @@ Topics contained:
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2104-sum-of-subarray-ranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -108,6 +109,7 @@ Topics contained:
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1626-best-team-with-no-conflicts) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -247,6 +249,7 @@ Topics contained:
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
