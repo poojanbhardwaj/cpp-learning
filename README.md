@@ -72,6 +72,7 @@ Topics contained:
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ Topics contained:
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Topics contained:
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +174,7 @@ Topics contained:
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
