@@ -25,6 +25,7 @@ Topics contained:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0300-longest-increasing-subsequence) |
@@ -121,6 +122,7 @@ Topics contained:
 | ------- |
 | [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -129,6 +131,7 @@ Topics contained:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
@@ -136,6 +139,7 @@ Topics contained:
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -445,6 +449,7 @@ Topics contained:
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
