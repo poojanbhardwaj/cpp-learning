@@ -75,6 +75,7 @@ Topics contained:
 | [3718-smallest-missing-multiple-of-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -231,6 +232,7 @@ Topics contained:
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -343,6 +345,7 @@ Topics contained:
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -462,6 +465,7 @@ Topics contained:
 | [1254-number-of-closed-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
