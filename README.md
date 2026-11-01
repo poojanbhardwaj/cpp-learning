@@ -33,6 +33,7 @@ Topics contained:
 | [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0503-next-greater-element-ii) |
@@ -173,6 +174,7 @@ Topics contained:
 | ------- |
 | [0050-powx-n](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
