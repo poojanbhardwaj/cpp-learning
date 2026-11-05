@@ -50,6 +50,7 @@ Topics contained:
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1626-best-team-with-no-conflicts) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -115,6 +116,7 @@ Topics contained:
 | [0846-hand-of-straights](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1626-best-team-with-no-conflicts) |
@@ -259,6 +261,7 @@ Topics contained:
 | [0042-trapping-rain-water](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -273,6 +276,7 @@ Topics contained:
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0300-longest-increasing-subsequence) |
 | [0887-super-egg-drop](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0887-super-egg-drop) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
