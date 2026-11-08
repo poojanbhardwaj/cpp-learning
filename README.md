@@ -49,6 +49,7 @@ Topics contained:
 | [1043-partition-array-for-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1043-partition-array-for-maximum-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1254-number-of-closed-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -136,6 +137,7 @@ Topics contained:
 | [0210-course-schedule-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -149,6 +151,7 @@ Topics contained:
 | [0322-coin-change](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -156,6 +159,7 @@ Topics contained:
 | ------- |
 | [0200-number-of-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -293,6 +297,7 @@ Topics contained:
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1267-count-servers-that-communicate) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -482,6 +487,7 @@ Topics contained:
 | [0200-number-of-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3665-twisted-mirror-path-count) |
