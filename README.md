@@ -67,6 +67,7 @@ Topics contained:
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3478-choose-k-elements-with-maximum-sum) |
