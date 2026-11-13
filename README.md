@@ -70,6 +70,7 @@ Topics contained:
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -352,6 +353,7 @@ Topics contained:
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
@@ -486,6 +488,7 @@ Topics contained:
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -525,6 +528,7 @@ Topics contained:
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
 | ------- |
@@ -539,6 +543,7 @@ Topics contained:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -563,6 +568,7 @@ Topics contained:
 | [0901-online-stock-span](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/poojanbhardwaj/cpp-learning/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -577,6 +583,7 @@ Topics contained:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
