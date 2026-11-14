@@ -70,6 +70,7 @@ Topics contained:
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3483-unique-3-digit-even-numbers) |
@@ -311,6 +312,7 @@ Topics contained:
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -488,6 +490,7 @@ Topics contained:
 | [0003-longest-substring-without-repeating-characters](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/poojanbhardwaj/cpp-learning/tree/master/0239-sliding-window-maximum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/poojanbhardwaj/cpp-learning/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/poojanbhardwaj/cpp-learning/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
